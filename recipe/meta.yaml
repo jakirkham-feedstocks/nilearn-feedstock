@@ -38,6 +38,8 @@ about:
   license: BSD 3-clause
   license_family: BSD
   summary: Statistical learning for neuroimaging in Python
+  dev_url: https://github.com/nilearn/nilearn
+  doc_url: https://nilearn.github.io
 
 extra:
   recipe-maintainers:
