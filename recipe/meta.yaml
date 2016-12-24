@@ -7,7 +7,7 @@ package:
 source:
   fn: nilearn-{{ version }}.tar.gz
   url: https://pypi.io/packages/source/n/nilearn/nilearn-{{ version }}.tar.gz
-  md5: 383d406d2eeec2bf7b68cc5d4fe20cb9
+  sha256: 6937a6c0aa83a65028532cbdb623bb53b8df569e6c3bb19308d78b5ef2cfb3d2
 
 build:
     number: 1
