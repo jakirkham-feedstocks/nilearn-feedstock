@@ -17,10 +17,7 @@ requirements:
   build:
     - python
     - setuptools
-    - numpy
-    - scipy
-    - scikit-learn
-    - nibabel
+
   run:
     - python
     - numpy
